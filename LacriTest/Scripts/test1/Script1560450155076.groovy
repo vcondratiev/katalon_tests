@@ -18,3 +18,5 @@ WebUI.openBrowser('www.emag.ro')
 WebUI.verifyElementPresent(findTestObject('Page_eMAGro - Gseti mai mult dect crezi/div_PRODUSE                    vezi toate                     (deschide megameniul)'), 
     0)
 
+WebUI.verifyElementPresent(findTestObject('Page_eMAGro - Gseti mai mult dect crezi/img'), 0)
+
